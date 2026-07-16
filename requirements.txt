@@ -3,3 +3,5 @@ python-dotenv==1.0.1
 PyPDF2==3.0.1
 streamlit
 httpx==0.24.0
+httpcore==0.17.3
+h11==0.14.0
